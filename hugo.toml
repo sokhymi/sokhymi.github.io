@@ -1,0 +1,4 @@
+baseURL = 'https://sokhymi.github.io/'
+languageCode = 'en-us'
+title = 'Portfolio of Emil'
+theme = 'ananke'
