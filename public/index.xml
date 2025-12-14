@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio of Emil</title>
-    <link>https://sokhymi.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Portfolio of Emil</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://sokhymi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 17:02:25 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Dec 2025 17:02:25 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;emils-portfolio-website-draft&#34;&gt;Emil&amp;rsquo;s portfolio website draft&lt;/h2&gt;&#xA;&lt;p&gt;This website is for displays of past-and-future projects&#xA;successfully completed by Bilegjargal Bold (Emil, as he&#xA;prefers to be called).&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
