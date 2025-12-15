@@ -1,6 +1,6 @@
 baseURL = 'https://sokhymi.github.io/'
 languageCode = 'en-us'
-title = 'Portfolio of Emil'
+title = 'Emil's Portfolio'
 theme = 'ananke'
 [caches]
   [caches.images]
