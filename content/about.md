@@ -1,8 +1,12 @@
 +++
 date = '2025-12-14T17:02:25+01:00'
-draft = true
+draft = false
 menus = 'main'
 title = 'About'
+
+[menu.main]
+name = 'About'
+weight = 10
 +++
 
 ## Emil's portfolio website draft
