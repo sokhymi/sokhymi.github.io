@@ -6,7 +6,3 @@ sectionPagesMenu = 'main'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-[[menu.main]]
-name = 'About'
-url = '/about/'
-weight = 10
