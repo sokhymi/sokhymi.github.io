@@ -20,7 +20,7 @@ style = "github-dark"
   info = "GIS Developer / Data Engineer"
   description = "Emil's Portfolio"
   keywords = "blog,developer,personal"
-  avatarurl = "images/portrait.png"
+  avatarurl = "images/portrait_compressed.png"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
