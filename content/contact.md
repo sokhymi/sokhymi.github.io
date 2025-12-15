@@ -11,6 +11,4 @@ weight = 10
 
 ## Message me right away!
 
-* [bilegjargal0328@gmail.com](mailto:bilegjargal0328@gmail.com)
-* [bilegjargal.bold@stud.plus.ac.at](mailto:bilegjargal.bold@stud.plus.ac.at) - Universität Salzburg email
-* \+ 43 664 9958 4340 - phone/message me
+Email placeholder
