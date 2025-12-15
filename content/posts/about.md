@@ -1,7 +1,7 @@
 +++
 date = '2025-12-14T17:02:25+01:00'
 draft = true
-menus = 'main'
+menus = ['main', 'about']
 title = 'About'
 +++
 
