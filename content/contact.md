@@ -13,4 +13,4 @@ weight = 10
 
 * [bilegjargal0328@gmail.com](bilegjargal0328@gmail.com)
 * [bilegjargal.bold@stud.plus.ac.at](bilegjargal.bold@stud.plus.ac.at) - Universität Salzburg email
-* + 43 664 9958 4340 - phone/message me
+* &#177; 43 664 9958 4340 - phone/message me
