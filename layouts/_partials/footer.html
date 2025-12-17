@@ -11,7 +11,7 @@
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
     ·
     {{ end }}
-    Co-funded by the European Union.<br>Erasmus Mundus Joint Master (EMJM) <a href=www.master-cde.eu>“Copernicus Master in Digital Earth”</a>
+    Co-funded by the European Union.<br>Erasmus Mundus Joint Master (EMJM) <a href=https://www.master-cde.eu>“Copernicus Master in Digital Earth”</a>
     {{ if (and .Site.Params.commit .GitInfo) }}
       [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
     {{ end }}
