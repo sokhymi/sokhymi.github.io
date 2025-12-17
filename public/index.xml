@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emil&#39;s Portfolio</title>
-    <link>https://sokhymi.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Emil&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://sokhymi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://sokhymi.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sokhymi.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;With more than 4 years of experience as a GIS Developer and Data Engineer, I have experience working with numerous different technologies, ranging from GIS-related tools, including Python, SQL, ArcGIS and QGIS (and their APIs for Python), to Azure Data Factory, Apache Spark and Apache Kafka, with a strong fundamental understanding of computing and machine learning workflows.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I am a Master&amp;rsquo;s student at University of Salzburg as part of the Erasmus Mundus programme &amp;lsquo;Copernicus Digital Earth&amp;rsquo;, specializing in data science for geospatial applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://sokhymi.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sokhymi.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h2 id=&#34;message-me-right-away&#34;&gt;&#xD;&#xA;  Message me right away!&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#message-me-right-away&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Email placeholder (working on contact form to prevent spam)&lt;/p&gt;</description>
     </item>
   </channel>
