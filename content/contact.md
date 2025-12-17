@@ -10,4 +10,4 @@ weight = 10
 
 ## Message me right away!
 
-Email placeholder
+Email placeholder (working on contact form to prevent spam)
