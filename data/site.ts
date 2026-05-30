@@ -151,6 +151,7 @@ export const site = {
     { type: 'Leaflet visualization', project: 'Leaflet map on coastal eutrophication in Europe', link: '', techStack: 'HTML, JavaScript, leaflet.js, Mapbox' },
     { type: 'SAR analysis', project: 'Terrain displacement metrics using SAR processing methods', link: '', techStack: 'ESA SNAP, Sen2Cor' },
     { type: 'Humanitarian case study', project: 'Mapping metrics concerning conflict and food insecurity', link: '', techStack: 'Python' },
+    { type: 'Excursion', project: 'Excursion to the office of United Nations Office for Outer Space Affairs and EODC', link: 'uniprojects/un_excursion', techStack: 'Dask'}
   ],
 } as const;
 
